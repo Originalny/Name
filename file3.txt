@@ -1,0 +1,1 @@
+VCS - Version Control System — это место хранения кода. Как dropbox, только для разработчиков!
